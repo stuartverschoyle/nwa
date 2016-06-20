@@ -183,7 +183,7 @@ div.required .control-label:before {
     width: 70%;
     top: 0px;
     position: relative;
-    padding-bottom: 30px;
+    padding-bottom: 30px; 
 }
 @media (min-width: 768px) {
 	#logo {
