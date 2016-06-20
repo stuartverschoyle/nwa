@@ -1,0 +1,4 @@
+2016-05-25 13:25:03 - PHP Notice:  Error: Could not load template /Users/stuartverschoyle/Sites/nwa/catalog/view/theme/default/template/default/template/module/instagram.tpl! in /Users/stuartverschoyle/Sites/nwa/system/library/template/basic.php on line 26
+2016-05-25 13:26:04 - PHP Notice:  Error: Could not load template /Users/stuartverschoyle/Sites/nwa/catalog/view/theme/default/template/default/template/module/instagram.tpl! in /Users/stuartverschoyle/Sites/nwa/system/library/template/basic.php on line 26
+2016-06-06 17:55:11 - PHP Notice:  Undefined variable: heading_title in /Users/stuartverschoyle/Sites/nwa/catalog/view/theme/nwa/template/module/carousel.tpl on line 1
+2016-06-06 17:56:02 - PHP Notice:  Undefined variable: heading_title in /Users/stuartverschoyle/Sites/nwa/catalog/view/theme/nwa/template/module/carousel.tpl on line 1
